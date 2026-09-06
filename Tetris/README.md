@@ -36,13 +36,13 @@ Assets/
 │   └── Tetris.unity        # Main game scene
 ├── Scripts/
 │   ├── Board.cs             # Grid, spawning, collision, line clearing
-│   ├── Piece.cs              # Active piece movement, rotation, locking
-│   ├── Ghost.cs               # Landing-position preview
-│   ├── Tetromino.cs            # Tetromino type & data struct
-│   └── Data.cs                  # Tetromino cell layouts & wall-kick tables
-├── Sprites/                      # Block, border, and grid sprites
-├── Tiles/                         # Tile assets used by the Tilemap
-└── Art/                            # Source .psd files for blocks & border
+│   ├── Piece.cs             # Active piece movement, rotation, locking
+│   ├── Ghost.cs             # Landing-position preview
+│   ├── Tetromino.cs         # Tetromino type & data struct
+│   └── Data.cs              # Tetromino cell layouts & wall-kick tables
+├── Sprites/                 # Block, border, and grid sprites
+├── Tiles/                   # Tile assets used by the Tilemap
+└── Art/                     # Source .psd files for blocks & border
 ```
 
 ## Opening the Project
