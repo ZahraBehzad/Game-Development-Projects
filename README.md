@@ -18,7 +18,7 @@ Unity projects built as part of my **Game Development** course. Each folder is a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Game-Development-Projects.git
+   git clone https://github.com/ZahraBehzad/Game-Development-Projects.git
    ```
 2. Open **Unity Hub** → **Add project** → select either `Little_Farmer_Colt` or `Tetris`.
 3. Let Unity import the project, then press **Play** in the Editor.
